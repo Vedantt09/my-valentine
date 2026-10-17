@@ -15,8 +15,7 @@ Click on the template of your choice, and create your valentine pages under 1 mi
 
 
 # Demo
-Github Pages : https://saurabhnemade.github.io/will-you-be-my-valentine/
-
+Github Pages : (https://vedantt09.github.io/my-valentine/)
 
 # Description
 This is a fun project for valentines day to bring smile on face of your special person!!
